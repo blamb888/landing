@@ -1,0 +1,20 @@
+.banner {
+  padding: 120px;
+  color: whitesmoke;
+  margin-bottom: 24px;
+}
+
+.banner h1 {
+  display: block;
+  margin: 0;
+  color: whitesmoke;
+  text-shadow: 0 0 8px rgb(.8, .8, .8);
+}
+
+.banner p {
+  display: block;
+  margin: 0;
+  color: whitesmoke;
+  margin-bottom: 50px;
+  text-shadow: 0 0 8px rgb(.8, .8, .8);
+}
